@@ -1,0 +1,15 @@
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\bin\Debug\net6.0\ex001.exe
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\bin\Debug\net6.0\ex001.deps.json
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\bin\Debug\net6.0\ex001.runtimeconfig.json
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\bin\Debug\net6.0\ex001.dll
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\bin\Debug\net6.0\ref\ex001.dll
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\bin\Debug\net6.0\ex001.pdb
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\obj\Debug\net6.0\ex001.csproj.AssemblyReference.cache
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\obj\Debug\net6.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\obj\Debug\net6.0\ex001.AssemblyInfoInputs.cache
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\obj\Debug\net6.0\ex001.AssemblyInfo.cs
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\obj\Debug\net6.0\ex001.csproj.CoreCompileInputs.cache
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\obj\Debug\net6.0\ex001.dll
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\obj\Debug\net6.0\ref\ex001.dll
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\obj\Debug\net6.0\ex001.pdb
+D:\Компьютерные курсы\WORKSPACE\Homework_Seminar_15.04.2023\ex001\obj\Debug\net6.0\ex001.genruntimeconfig.cache
